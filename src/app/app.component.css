@@ -1,0 +1,8 @@
+.main__area {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(250, 250, 250);
+    margin-top: 20px;
+    height: 80vh;
+    /* width: 100vw; */
+}
